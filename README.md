@@ -6,7 +6,7 @@ Welcome to Atmos Weather, a simple application to check weather forecasts built 
   <img src="https://i.imgur.com/0SJjECP.png" alt="Weather App Screenshot">
 </p>
 
-🚀 **Visit the website** [Atmos Weather Website](https://atmos-weather-oi7zqxjlu-fermarino.vercel.app/)
+🚀 **Visit the website** <a href="https://atmos-weather-oi7zqxjlu-fermarino.vercel.app/" target="_blank" rel="noopener noreferrer">Atmos Weather Website</a>
 
 ## Table of Contents
 
